@@ -1,0 +1,142 @@
+<resources>
+    <string name="app_name">BigMonkey</string>
+    <string name="setting_menu">setting</string>
+
+
+    <!--post related-->
+    <string name="all_posts_loaded">All posts loaded</string>
+    <!--post view-->
+    <string name="follow_button">Follow</string>
+    <string name="comment_box_hint">Add a comment</string>
+    <!--main activity -->
+    <string name="home_fragment_name">Home</string>
+    <string name="proposal_fragment_name">Proposal</string>
+    <string name="message_fragment_name">Message</string>
+    <string name="my_fragment_name">My</string>
+    <!--Share activity-->
+    <string name="photo_icon_title">Pictures</string>
+    <string name="video_icon_title">Videos</string>
+    <string name="share_activity_add_title_hint">Title</string>
+    <string name="share_activity_add_description_hint">Description</string>
+    <string name="share_activity_add_location_text">Location</string>
+    <string name="share_activity_post">Post</string>
+    <string name="share_activity_save_as_draft">Save as draft</string>
+    <string name="share_activity_reminder">Please select image!</string>
+    <string name="share_activity_fail_reminder">Upload failed!</string>
+    <string name="share_activity_uploading_reminder">Uploading......</string>
+    <!--select images and video-->
+    <string name="maximum_number_of_image_reminder">Maximum 9 images can be selected</string>
+    <string name="preview_select_text">Select</string>
+    <string name="toolbar_send_button_default_title">Send</string>
+    <string name="media_not_selected_reminder">Please select images!</string>
+    <!--share option dialogue-->
+    <string name="share_option_image">Images</string>
+    <string name="share_option_videos">Videos</string>
+    <string name="select_images_activity_title">Select images</string>
+    <!--my fragment -->
+    <string name="followers">Followers:\u0020</string>
+    <string name="followings">Followings:\u0020</string>
+    <string name="Liked">Liked:\u0020</string>
+    <string name="my_fragment_pager_title_1">My posts</string>
+    <string name="my_fragment_pager_title_2">Starred</string>
+    <string name="my_fragment_pager_title_3">Followings</string>
+    <!--setting activity -->
+    <string name="setting_activity_toolbar_setting_button_title">Settings</string>
+    <string name="setting_activity_title">Settings</string>
+    <string name="setting_option_edit_profile">Edit profile</string>
+    <string name="setting_option_account_settings">Account settings</string>
+    <string name="setting_option_manage_notification">Manage notification</string>
+    <string name="setting_option_privacy_settings">Privacy settings</string>
+    <string name="setting_option_general_settings">General settings</string>
+    <string name="setting_option_about_mytips">About Mytips</string>
+    <string name="setting_option_suggestion_feedback">Suggestion and feedback</string>
+    <string name="setting_option_logout">Logout current account</string>
+    <!--edit profile -->
+    <string name="edit_profile_title">Edit profile</string>
+    <string name="edit_profile_option_edit_photo">Edit profile photo</string>
+    <string name="edit_profile_option_name">Name</string>
+    <string name="edit_profile_option_email">Email</string>
+    <string name="edit_profile_option_residence">Residence</string>
+    <string name="edit_profile_option_birthday">Birthday</string>
+    <string name="edit_profile_option_description">Description</string>
+    <string name="edit_name_activity_title">Edit name</string>
+    <string name="edit_name_activity_hint">Name shown on your profile page</string>
+    <string name="edit_description_activity_title">Edit description</string>
+    <string name="edit_description_activity_hint">Tell whatever you want!</string>
+    <string name="edit_profile_photo_activity_title">Select image</string>
+    <string name="edit_profile_photo_preview_check_menu_title">Next</string>
+    <string name="edit_profile_photo_crop_menu_title">Continue</string>
+
+    <!--login fragment or activity -->
+    <string name="login_account_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="login_button_text">LOG IN</string>
+    <string name="login_sign_up">No account yet? Sign up here!</string>
+    <string name="login_please_wait">Please wait…</string>
+    <string name="login_forget_password">Forget password?</string>
+    <!--register activity -->
+    <string name="register_account_hint">Email</string>
+    <string name="register_name_hint">User name</string>
+    <string name="register_password_hint">Password</string>
+    <string name="register_confirm_password_hint">Confirm password</string>
+    <string name="register_button_text">REGISTER</string>
+    <string name="register_title">REGISTER A NEW ACCOUNT</string>
+    <string name="invalid_email_format_reminder">Please enter valid email ^_^</string>
+    <string name="input_password_reminder">Please enter password ^_^</string>
+    <string name="input_username_reminder">Please enter user name ^_^ </string>
+    <string name="confirm_password_reminder">Please confirm your password ^_^ </string>
+    <string name="password_length_reminder">Password length should be 8–30</string>
+    <string name="password_match_reminder">Password does not match!</string>
+    <string name="verify_email_reminder">Please verify your email ^_^</string>
+    <string name="registration_success_reminder">Registration successful, please verify your email ^_^</string>
+    <string name="email_already_registered_but_not_verified_reminder">This email has been already registered, but not verified. A new verification email has been sent.</string>
+    <string name="name_exists_reminder">Name already exists, please make a new name ^_^</string>
+    <string name="logout_alert">Logout current account?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="authentication_failed_reminder">Authentication failed. Is the email or password correct?</string>
+
+    <!--util.BitmapGetter-->
+    <string name="image_load_failed">Image load failed!</string>
+    <string name="errors_happened">Errors happened!</string>
+    <!--firebase database-->
+
+    <string name="server_side_issue">Server access issue!</string>
+    <string name="child_user_info">user_info</string>
+    <string name="user_info_node_email">email</string>
+    <string name="user_info_node_user_info">user_info</string>
+    <string name="user_info_node_user_name">user_name</string>
+    <string name="child_user_account_setting">user_account_setting</string>
+    <string name="account_setting_node_birthday">birthday</string>
+    <string name="account_setting_node_description">description</string>
+    <string name="account_setting_node_follower">follower</string>
+    <string name="account_setting_node_following">following</string>
+    <string name="account_setting_node_gender">gender</string>
+    <string name="account_setting_node_liked">liked</string>
+    <string name="account_setting_node_profile_photo">profile_photo</string>
+    <string name="account_setting_node_residence">residence</string>
+    <string name="image_posts_node">image_posts</string>
+    <string name="image_posts_node_title">title</string>
+    <string name="image_posts_node_tags">tags</string>
+    <string name="image_posts_node_description">description</string>
+    <string name="image_posts_node_user_id">user_id</string>
+    <string name="image_posts_node_date_posted">date_posted</string>
+    <string name="image_posts_node_imageHeights">imageHeights</string>
+    <string name="image_posts_node_imageWidths">imageWidths</string>
+    <string name="image_posts_node_http_uri">http_uri</string>
+    <string name="image_posts_node_users_liked">users_liked</string>
+    <string name="user_posts_node">user_posts</string>
+    <string name="user_posts_node_user_image_posts">user_image_posts</string>
+    <string name="image_posts_node_comments">comments</string>
+    <string name="time_stamp">time_stamp</string>
+    <string name="name">name</string>
+    <string name="user_id">user_id</string>
+
+    <string name="comments_node">comments</string>
+    <string name="comments_node_post_id">post_id</string>
+    <string name="comments_node_comment_id">comment_id</string>
+    <string name="comments_node_comment_text">comment_text</string>
+    <string name="comments_node_time_stamp">time_stamp</string>
+    <string name="replies_node">replies</string>
+
+</resources>

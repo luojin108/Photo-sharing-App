@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/activity_login"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent">
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/activity_login_appbar"
+        android:layout_width="match_parent"
+        android:layout_height="40dp">
+        <androidx.appcompat.widget.Toolbar
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            app:contentInsetStart="0dp">
+            <ImageButton
+                android:id="@+id/activity_login_setting_button"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="end"
+                android:background="@null"
+                android:layout_marginRight="10dp"
+                android:src="@drawable/setting_button"
+                android:layout_marginEnd="10dp" />
+        </androidx.appcompat.widget.Toolbar>
+    </com.google.android.material.appbar.AppBarLayout>
+        <LinearLayout
+            android:layout_below="@id/activity_login_appbar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:layout_marginTop="50dp"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                app:srcCompat="@drawable/big_monkey" />
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/activity_login_input_layout_email"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/login_account_hint"
+                app:errorEnabled="false">
+                <androidx.appcompat.widget.AppCompatEditText
+                    android:id="@+id/activity_login_edit_text_email"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:inputType="textEmailAddress"
+                    app:hintAnimationEnabled="true"
+                  />
+            </com.google.android.material.textfield.TextInputLayout>
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/activity_login_input_layout_password"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/login_password_hint"
+                app:passwordToggleEnabled="true"
+                app:errorEnabled="false">
+                <androidx.appcompat.widget.AppCompatEditText
+                    android:id="@+id/activity_login_edit_text_password"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:inputType="textPassword"
+                    app:hintAnimationEnabled="true"
+                   />
+            </com.google.android.material.textfield.TextInputLayout>
+            <Button
+                android:id="@+id/activity_login_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginEnd="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="16dp"
+                android:background="@drawable/button_shape"
+                android:text="@string/login_button_text"
+                android:textStyle="bold"
+                android:clickable="true"
+                android:focusable="true"
+                />
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/activity_login_text_register"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/login_sign_up"
+                android:textColor="@color/blue"
+                android:layout_gravity="center_horizontal"
+                android:clickable="true"
+                android:focusable="true"/>
+            <androidx.appcompat.widget.AppCompatTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/login_forget_password"
+                android:textColor="@color/blue"
+                android:layout_gravity="center_horizontal"
+                android:clickable="true"
+                android:focusable="true"
+                android:layout_marginTop="10dp"/>
+        </LinearLayout>
+        <ProgressBar
+            android:id="@+id/activity_login_progress_bar"
+            android:layout_width="136dp"
+            android:layout_height="136dp"
+            android:layout_centerInParent="true"/>
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/activity_login_text_wait"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/login_please_wait"
+            android:textColor="@color/black"
+            android:layout_alignLeft="@+id/activity_login_progress_bar"
+            android:layout_below="@+id/activity_login_progress_bar"
+            android:layout_alignStart="@+id/activity_login_progress_bar" />
+
+    </RelativeLayout>
+
+
+
+
+
+
+

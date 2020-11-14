@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    style="@style/MatchParent"
+    android:background="@color/white">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/activity_edit_profile_photo_app_bar_layout"
+        android:layout_width="match_parent"
+        android:layout_height="50dp">
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/activity_edit_profile_photo_tool_bar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:navigationIcon="@drawable/back_arrow"
+            app:contentInsetStart="0dp">
+            <TextView
+                android:id="@+id/activity_edit_profile_photo_main_title"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="@string/edit_profile_photo_activity_title"
+                android:textColor="@color/black"
+                android:layout_gravity="center_horizontal"
+                android:textSize="20sp" />
+        </androidx.appcompat.widget.Toolbar>
+    </com.google.android.material.appbar.AppBarLayout>
+    <include layout="@layout/edit_profile_photo_content_snippet"/>
+</RelativeLayout>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "950409303076",
+    "firebase_url": "https://bigmonkey-f8685.firebaseio.com",
+    "project_id": "bigmonkey-f8685",
+    "storage_bucket": "bigmonkey-f8685.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950409303076:android:7b16b14be2a5b5a50df4b1",
+        "android_client_info": {
+          "package_name": "com.example.mytips"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950409303076-k4b68co3mqecobqvmoddf5bq7hrphe71.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mytips",
+            "certificate_hash": "14811c555f4d326d98f3cf6674fe9c6ed9d06384"
+          }
+        },
+        {
+          "client_id": "950409303076-tutsrqndh4qpiohn1smvjlnr9bl5c05n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyRQhTYenXDlTcwPctPtQQhR8BmCUvP3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950409303076-tutsrqndh4qpiohn1smvjlnr9bl5c05n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

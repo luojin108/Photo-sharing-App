@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="3dp">
+    <com.theophrast.ui.widget.SquareImageView
+        android:id="@+id/activity_image_albums_single_image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="centerCrop" />
+    <androidx.appcompat.widget.AppCompatCheckBox
+        android:id="@+id/check_box"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:buttonTint="@color/orange"
+        android:clickable="false"
+        android:focusable="false" />
+    <View
+        android:id="@+id/check_box_mask"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:clickable="true"
+        android:focusable="true"/>
+</RelativeLayout>
+

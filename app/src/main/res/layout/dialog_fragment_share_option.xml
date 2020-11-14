@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:background="@color/white"
+    >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_centerHorizontal="true">
+        <Button
+            android:id="@+id/share_option_images"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/share_option_image"
+            android:textSize="16sp"
+            android:layout_margin="10dp"
+            android:background="@drawable/button_shape"
+            style="?borderlessButtonStyle"/>
+        <Button
+            android:id="@+id/share_option_videos"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/share_option_videos"
+            android:textSize="16sp"
+            android:layout_margin="10dp"
+            android:background="@drawable/button_shape"
+            style="?borderlessButtonStyle" />
+    </LinearLayout>
+</RelativeLayout>

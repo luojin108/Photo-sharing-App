@@ -1,0 +1,25 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/recycler_view_video_display_Relative_layout"
+    android:layout_height="120dp"
+    android:layout_width="120dp">
+
+    <ImageView
+        android:id="@+id/recycler_view_video_display_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop" />
+    <TextView
+        android:id="@+id/recycler_view_video_display_tv"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="6dp"
+        android:layout_marginLeft="6dp"
+        android:layout_marginStart="6dp"
+        android:drawableLeft="@drawable/video_icon"
+        android:drawablePadding="4dp"
+        android:drawableStart="@drawable/video_icon"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:textColor="@color/white" />
+</RelativeLayout>

@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp">
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/activity_edit_profile_tool_bar"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            app:contentInsetStart="0dp"
+            app:navigationIcon="@drawable/back_arrow">
+            <TextView
+                android:id="@+id/setting_activity_main_title"
+                android:layout_width="180dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="@string/edit_profile_title"
+                android:textColor="@color/black"
+                android:textSize="20sp" />
+        </androidx.appcompat.widget.Toolbar>
+    </com.google.android.material.appbar.AppBarLayout>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/gray"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:background="@color/white">
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:id="@+id/edit_profile_circle_view"
+                    android:layout_width="70dp"
+                    android:layout_height="70dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginLeft="10dp"
+                    app:civ_border_width="2dp"
+                    app:civ_border_color="@color/white"/>
+                <RelativeLayout
+                    android:id="@+id/edit_profile_photo_rl"
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:layout_toRightOf="@+id/edit_profile_circle_view"
+                    android:layout_toEndOf="@+id/edit_profile_circle_view"
+                    android:clickable="true"
+                    android:focusable="true" >
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/dark_gray_for_text"
+                        android:textSize="@dimen/setting_option_text_size"
+                        android:layout_centerVertical="true"
+                        android:layout_marginStart="14dp"
+                        android:layout_marginLeft="14dp"
+                        android:text="@string/edit_profile_option_edit_photo" />
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="10dp"
+                        android:layout_centerVertical="true"
+                        android:src="@drawable/chevron_right"
+                        android:layout_alignParentRight="true"
+                        android:layout_alignParentEnd="true" />
+                </RelativeLayout>
+            </RelativeLayout>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:background="@color/white"
+                android:clickable="true"
+                android:focusable="true">
+                <TextView
+                    android:id="@+id/edit_profile_tv_user_id"
+                    android:layout_width="130dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginEnd="5dp"
+                    android:textColor="@color/dark_gray_for_text"
+                    android:textSize="@dimen/setting_option_text_size"
+                    android:padding="10dp"
+                    android:text="@string/edit_profile_option_email"
+                    android:layout_alignParentStart="true" />
+                <TextView
+                    android:id="@+id/edit_profile_email"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:maxLines="1"
+                    android:ellipsize="end"
+                    android:layout_toRightOf="@+id/edit_profile_tv_user_id"
+                    android:layout_toEndOf="@+id/edit_profile_tv_user_id"
+                    android:textColor="@color/dark_gray_for_text"
+                    android:textSize="@dimen/setting_option_text_size"
+                    android:padding="10dp" />
+            </RelativeLayout>
+            <RelativeLayout
+                android:id="@+id/edit_profile_name_rl"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:background="@color/white"
+                android:clickable="true"
+                android:focusable="true">
+                <TextView
+                    android:id="@+id/edit_profile_name_tv"
+                    android:layout_width="130dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginEnd="5dp"
+                    android:textColor="@color/dark_gray_for_text"
+                    android:textSize="@dimen/setting_option_text_size"
+                    android:padding="10dp"
+                    android:text="@string/edit_profile_option_name"
+                    android:layout_alignParentStart="true" />
+
+                <TextView
+                    android:id="@+id/edit_profile_name"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:maxLines="1"
+                    android:ellipsize="end"
+                    android:layout_toEndOf="@+id/edit_profile_name_tv"
+                    android:layout_toRightOf="@+id/edit_profile_name_tv"
+                    android:padding="10dp"
+                    android:textColor="@color/dark_gray"
+                    android:textSize="@dimen/setting_option_text_size" />
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:padding="10dp"
+                    android:src="@drawable/chevron_right"
+                    android:layout_alignParentEnd="true" />
+            </RelativeLayout>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:background="@color/white"
+                android:clickable="true"
+                android:focusable="true">
+                <TextView
+                    android:id="@+id/edit_profile_tv_residence"
+                    android:layout_width="130dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginEnd="5dp"
+                    android:textColor="@color/dark_gray_for_text"
+                    android:textSize="@dimen/setting_option_text_size"
+                    android:padding="10dp"
+                    android:text="@string/edit_profile_option_residence"
+                    android:layout_alignParentStart="true" />
+                <TextView
+                    android:id="@+id/edit_profile_residence"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:maxLines="1"
+                    android:ellipsize="end"
+                    android:layout_toRightOf="@+id/edit_profile_tv_residence"
+                    android:layout_toEndOf="@+id/edit_profile_tv_residence"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/setting_option_text_size"
+                    android:padding="10dp" />
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:padding="10dp"
+                    android:src="@drawable/chevron_right"
+                    android:layout_alignParentEnd="true" />
+            </RelativeLayout>
+            <RelativeLayout
+                android:id="@+id/edit_profile_birthday_rl"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:background="@color/white"
+                android:clickable="true"
+                android:focusable="true">
+                <TextView
+                    android:id="@+id/edit_profile_tv_birthday"
+                    android:layout_width="130dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginEnd="5dp"
+                    android:textColor="@color/dark_gray_for_text"
+                    android:textSize="@dimen/setting_option_text_size"
+                    android:padding="10dp"
+                    android:text="@string/edit_profile_option_birthday"
+                    android:layout_alignParentStart="true" />
+                <TextView
+                    android:id="@+id/edit_profile_birthday"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:maxLines="1"
+                    android:ellipsize="end"
+                    android:layout_toRightOf="@+id/edit_profile_tv_birthday"
+                    android:layout_toEndOf="@+id/edit_profile_tv_birthday"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/setting_option_text_size"
+                    android:padding="10dp" />
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:padding="10dp"
+                    android:src="@drawable/chevron_right"
+                    android:layout_alignParentEnd="true" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/edit_profile_description_rl"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:background="@color/white"
+                android:clickable="true"
+                android:focusable="true">
+
+                <TextView
+                    android:id="@+id/edit_profile_tv_description"
+                    android:layout_width="130dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginEnd="5dp"
+                    android:layout_marginRight="5dp"
+                    android:gravity="top"
+                    android:padding="10dp"
+                    android:text="@string/edit_profile_option_description"
+                    android:textColor="@color/dark_gray_for_text"
+                    android:textSize="@dimen/setting_option_text_size" />
+
+                <TextView
+                    android:id="@+id/edit_profile_description"
+                    android:layout_width="235dp"
+                    android:layout_height="wrap_content"
+                    android:layout_toEndOf="@+id/edit_profile_tv_description"
+                    android:layout_toRightOf="@+id/edit_profile_tv_description"
+                    android:maxLines="6"
+                    android:ellipsize="end"
+                    android:padding="10dp"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/setting_option_text_size" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:foregroundGravity="top"
+                    android:padding="10dp"
+                    android:src="@drawable/chevron_right" />
+            </RelativeLayout>
+
+        </LinearLayout>
+    </ScrollView>
+    <ProgressBar
+        android:id="@+id/activity_edit_profile_progress_bar"
+        android:layout_width="136dp"
+        android:layout_height="136dp"
+        android:layout_gravity="center"
+        android:visibility="visible"/>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

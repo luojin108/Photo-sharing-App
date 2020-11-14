@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item
+    android:id="@+id/activity_edit_profile_photo_check"
+    android:checkable="true"
+    app:showAsAction="always"
+    android:title="@string/edit_profile_photo_preview_check_menu_title"/>
+</menu>
