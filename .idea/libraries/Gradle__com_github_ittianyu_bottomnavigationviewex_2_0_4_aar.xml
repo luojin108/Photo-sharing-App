@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.ittianyu:bottomnavigationviewex:2.0.4@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4f0672987e4a95cc37e03de3ea39c5b5/jetified-bottomnavigationviewex-2.0.4/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4f0672987e4a95cc37e03de3ea39c5b5/jetified-bottomnavigationviewex-2.0.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4f0672987e4a95cc37e03de3ea39c5b5/jetified-bottomnavigationviewex-2.0.4/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ittianyu/bottomnavigationviewex/2.0.4/d509d1727dadbc2c13ea4ad5a1c7b29123ae44a3/bottomnavigationviewex-2.0.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ittianyu/bottomnavigationviewex/2.0.4/323b4cdecf69afba6e5605a739e5c1d8a52bc20d/bottomnavigationviewex-2.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
