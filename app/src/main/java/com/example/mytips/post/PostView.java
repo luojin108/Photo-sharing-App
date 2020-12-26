@@ -192,6 +192,8 @@ public class PostView extends AppCompatActivity implements View.OnClickListener,
             comment.setPost_id((ds.child(getString(R.string.comments_node_post_id)).getValue()).toString());
 
             ArrayList<Reply> replies=new ArrayList<>();
+            ArrayList<Reply> hiddenReplies=new ArrayList<>();
+            int counter = 0;
              for (DataSnapshot ds2:ds.child(getString(R.string.replies_node)).getChildren()){
                  Reply reply=new Reply();
                  reply.setUser_id(ds2.getValue(Reply.class).getUser_id());
@@ -200,12 +202,19 @@ public class PostView extends AppCompatActivity implements View.OnClickListener,
                  reply.setReply_text(ds2.getValue(Reply.class).getReply_text());
                  reply.setReply_id(ds2.getValue(Reply.class).getReply_id());
                  reply.setParent_id(ds2.getValue(Reply.class).getParent_id());
+
+                 counter ++;
+                 if (counter > 1 ){
+                     hiddenReplies.add(reply);
+                     continue;
+                 }
                  replies.add(reply);
              }
            /*  if(!replies.isEmpty()){
                  replies.add(0,new Reply());
              }*/
              comment.setReplies(replies);
+             comment.setHiddenReplies(hiddenReplies);
              commentList.add(comment);
         }
         CommentExpandAdapter commentExpandAdapter=new CommentExpandAdapter(this,commentList,userID,mDatabaseRef);

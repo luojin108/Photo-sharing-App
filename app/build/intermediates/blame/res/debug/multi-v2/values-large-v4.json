@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
+            "outputFile": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
             "map": [
                 {
                     "source": "/Users/johannah/.gradle/caches/transforms-2/files-2.1/19f5ab89877bc0776fed45e48f261ece/material-1.0.0/res/values-large-v4/values-large-v4.xml",

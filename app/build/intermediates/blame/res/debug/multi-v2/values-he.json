@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-he/values-he.xml",
+            "outputFile": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-he/values-he.xml",
             "map": [
                 {
                     "source": "/Users/johannah/.gradle/caches/transforms-2/files-2.1/e4646426cdddc65da733a3ef52a53a76/jetified-android-image-cropper-2.8.0/res/values-he/values-he.xml",

@@ -3,7 +3,6 @@ package com.example.mytips.post;
 import android.content.Context;
 import android.os.Build;
 import android.util.AttributeSet;
-import android.view.ViewGroup;
 import android.widget.ExpandableListView;
 
 import androidx.core.view.NestedScrollingChild;

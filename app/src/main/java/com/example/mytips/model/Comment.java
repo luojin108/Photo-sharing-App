@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class Comment {
     private String post_id,user_id,comment_id,comment_text;
     private Long time_stamp;
-    private ArrayList<Reply> replies;
+    private ArrayList<Reply> replies,hiddenReplies;
 
 
     public Comment(){}
@@ -56,5 +56,13 @@ public class Comment {
 
     public void setReplies(ArrayList<Reply> replies) {
         this.replies = replies;
+    }
+
+    public ArrayList<Reply> getHiddenReplies() {
+        return hiddenReplies;
+    }
+
+    public void setHiddenReplies(ArrayList<Reply> hiddenReplies) {
+        this.hiddenReplies = hiddenReplies;
     }
 }

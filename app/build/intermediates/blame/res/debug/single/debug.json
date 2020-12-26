@@ -1,942 +1,942 @@
 [
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xhdpi_default_image.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-xhdpi/default_image.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/menu_activity_edit_profile_photo_crop_menu.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/menu/activity_edit_profile_photo_crop_menu.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_fragment_home_child1.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/fragment_home_child1.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-mdpi_more_options_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-mdpi/more_options_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/color_radio_button_tint.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/color/radio_button_tint.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxhdpi_password_toggle.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-xxhdpi/password_toggle.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-mdpi_chevron_right.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-mdpi/chevron_right.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_more_options_icon.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-anydpi-v21/more_options_icon.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xhdpi_album_ic_eye_white.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-xhdpi/album_ic_eye_white.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxhdpi_album_ic_eye_white.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-xxhdpi/album_ic_eye_white.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xhdpi_setting_button.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-xhdpi/setting_button.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_reply_expand_button.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/reply_expand_button.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-mdpi_question_button.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-mdpi/question_button.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xhdpi_password_toggle.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-xhdpi/password_toggle.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_comment_reply_item.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/comment_reply_item.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-mdpi_back_arrow.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-mdpi/back_arrow.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_album_ic_add_photo_white.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-xxxhdpi/album_ic_add_photo_white.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_album_abc_spinner_white.9.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-xxxhdpi/album_abc_spinner_white.9.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-ldpi_my_fragment_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-ldpi/my_fragment_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xhdpi_password_toggle.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-xhdpi/password_toggle.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xhdpi_my_fragment_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-xhdpi/my_fragment_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-ldpi_message_fragment_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-ldpi/message_fragment_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/menu_fragment_my_tool_bar_menu.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/menu/fragment_my_tool_bar_menu.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_dialog_fragment_logout.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/dialog_fragment_logout.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-hdpi_proposal_fragment_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-hdpi/proposal_fragment_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxhdpi_question_button.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-xxhdpi/question_button.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xhdpi_comment_bubble.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-xhdpi/comment_bubble.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_comment_bubble.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-anydpi-v21/comment_bubble.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/menu_fragment_my_tool_bar_menu.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/menu/fragment_my_tool_bar_menu.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_my_fragment_icon.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-anydpi-v21/my_fragment_icon.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-hdpi_check_button.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-hdpi/check_button.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-ldpi_my_fragment_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-ldpi/my_fragment_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxhdpi_profile_photo.jpg.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-xxhdpi/profile_photo.jpg"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xhdpi_home_fragment_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-xhdpi/home_fragment_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/menu_main_activity_bottom_nav_menu.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/menu/main_activity_bottom_nav_menu.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-hdpi_album_ic_add_photo_white.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-hdpi/album_ic_add_photo_white.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxhdpi_proposal_fragment_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-xxhdpi/proposal_fragment_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_albums_content_snippet.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/albums_content_snippet.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_activity_image_albums_single_item.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/activity_image_albums_single_item.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xhdpi_at.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-xhdpi/at.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-mdpi_message_fragment_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-mdpi/message_fragment_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout-v21_activity_setting.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout-v21/activity_setting.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxhdpi_more_options_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-xxhdpi/more_options_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-hdpi_comment_bubble.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-hdpi/comment_bubble.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxhdpi_message_fragment_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-xxhdpi/message_fragment_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_activity_setting.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/activity_setting.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_back_arrow.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-xxxhdpi/back_arrow.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-mdpi_at.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-mdpi/at.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxhdpi_profile_photo.jpg.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-xxhdpi/profile_photo.jpg"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable_edit_box_background2.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable/edit_box_background2.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_directory_seletor_single_item.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/directory_seletor_single_item.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_activity_preview_single_item.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/activity_preview_single_item.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-hdpi_more_options_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-hdpi/more_options_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-ldpi_location_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-ldpi/location_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-ldpi_video_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-ldpi/video_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-mdpi_comment_bubble.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-mdpi/comment_bubble.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxhdpi_video_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-xxhdpi/video_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-hdpi_album_ic_eye_white.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-hdpi/album_ic_eye_white.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xhdpi_add_button_image_24dp.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-xhdpi/add_button_image_24dp.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_fragment_home_child2.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/fragment_home_child2.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xhdpi_add_action_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-xhdpi/add_action_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_activity_preview_images.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/activity_preview_images.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_question_button.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-anydpi-v21/question_button.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_my_fragment_icon.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-anydpi-v21/my_fragment_icon.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxhdpi_location_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-xxhdpi/location_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_back_arrow.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-anydpi-v21/back_arrow.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_more_options_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-xxxhdpi/more_options_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xhdpi_chevron_right.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-xhdpi/chevron_right.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable_comment_list_selector_transparent.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable/comment_list_selector_transparent.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_location_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-xxxhdpi/location_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-ldpi_check_button.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-ldpi/check_button.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xhdpi_home_fragment_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-xhdpi/home_fragment_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_back_arrow.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-anydpi-v21/back_arrow.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-hdpi_back_arrow.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-hdpi/back_arrow.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_location_icon.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-anydpi-v21/location_icon.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-ldpi_check_button.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-ldpi/check_button.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxhdpi_home_fragment_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-xxhdpi/home_fragment_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxhdpi_chevron_right.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-xxhdpi/chevron_right.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_message_fragment_icon.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-anydpi-v21/message_fragment_icon.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-mdpi_at.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-mdpi/at.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_dialog_fragment_share_option.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/dialog_fragment_share_option.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xhdpi_video_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-xhdpi/video_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_at.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-xxxhdpi/at.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_fragment_home_child2.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/fragment_home_child2.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xhdpi_comment_bubble.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-xhdpi/comment_bubble.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/menu_activity_preview_tool_bar_menu.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/menu/activity_preview_tool_bar_menu.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_fragment_proposal.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/fragment_proposal.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xhdpi_add_action_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-xhdpi/add_action_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_comment_popup_window.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/comment_popup_window.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xhdpi_at.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-xhdpi/at.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_activity_preview_images.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/activity_preview_images.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-ldpi_add_button_image_24dp.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-ldpi/add_button_image_24dp.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/menu_activity_edit_profile_photo_preview_menu.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/menu/activity_edit_profile_photo_preview_menu.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-hdpi_comment_bubble.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-hdpi/comment_bubble.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xhdpi_chevron_right.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-xhdpi/chevron_right.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_my_fragment_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-xxxhdpi/my_fragment_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_photo_icon.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-anydpi-v21/photo_icon.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_location_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-xxxhdpi/location_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_recycler_view_bottom_loading_icon.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/recycler_view_bottom_loading_icon.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_comment_item.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/comment_item.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxhdpi_video_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-xxhdpi/video_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-ldpi_cancel_button.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-ldpi/cancel_button.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_fragment_my_child2.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/fragment_my_child2.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxhdpi_add_button_image_24dp.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-xxhdpi/add_button_image_24dp.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_share_image_display_layout.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/share_image_display_layout.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxhdpi_album_abc_spinner_white.9.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-xxhdpi/album_abc_spinner_white.9.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable_edit_box_background2.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable/edit_box_background2.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxhdpi_location_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-xxhdpi/location_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-mdpi_message_fragment_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-mdpi/message_fragment_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-hdpi_location_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-hdpi/location_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxhdpi_chevron_right.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-xxhdpi/chevron_right.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_activity_edit_profile.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/activity_edit_profile.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_proposal_fragment_icon.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-anydpi-v21/proposal_fragment_icon.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_activity_edit_profile_photo.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/activity_edit_profile_photo.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_cancel_button.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-xxxhdpi/cancel_button.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_activity_edit_profile_photo_crop.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/activity_edit_profile_photo_crop.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_fragment_my_child1.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/fragment_my_child1.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_activity_edit_profile_photo_preview.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/activity_edit_profile_photo_preview.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xhdpi_my_fragment_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-xhdpi/my_fragment_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_activity_image_albums.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/activity_image_albums.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_album_ic_add_photo_white.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-xxxhdpi/album_ic_add_photo_white.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_fragment_my_child1.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/fragment_my_child1.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_fragment_message.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/fragment_message.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable_button_shape.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable/button_shape.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_more_options_icon.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-anydpi-v21/more_options_icon.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-hdpi_my_fragment_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-hdpi/my_fragment_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_photo_icon.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-anydpi-v21/photo_icon.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-hdpi_message_fragment_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-hdpi/message_fragment_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-ldpi_add_action_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-ldpi/add_action_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_check_button.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-anydpi-v21/check_button.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_chevron_right.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-anydpi-v21/chevron_right.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_share_image_display_layout.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/share_image_display_layout.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-hdpi_more_options_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-hdpi/more_options_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/menu_tool_bar_check.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/menu/tool_bar_check.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-ldpi_back_arrow.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-ldpi/back_arrow.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxhdpi_default_image.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-xxhdpi/default_image.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-ldpi_message_fragment_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-ldpi/message_fragment_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-hdpi_default_image.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-hdpi/default_image.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xhdpi_default_image.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-xhdpi/default_image.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_edit_profile_photo_content_snippet.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/edit_profile_photo_content_snippet.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_cancel_button.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-xxxhdpi/cancel_button.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_setting_button.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-xxxhdpi/setting_button.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_question_button.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-xxxhdpi/question_button.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_fragment_home.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/fragment_home.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xhdpi_cancel_button.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-xhdpi/cancel_button.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-hdpi_my_fragment_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-hdpi/my_fragment_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_proposal_fragment_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-xxxhdpi/proposal_fragment_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_recycler_view_bottom_loading_icon.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/recycler_view_bottom_loading_icon.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_video_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-xxxhdpi/video_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_fragment_home_child1.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/fragment_home_child1.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_question_button.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-anydpi-v21/question_button.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-ldpi_proposal_fragment_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-ldpi/proposal_fragment_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xhdpi_location_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-xhdpi/location_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_password_toggle.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-anydpi-v24/password_toggle.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_proposal_fragment_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-xxxhdpi/proposal_fragment_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_setting_button.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-anydpi-v21/setting_button.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/menu_activity_preview_tool_bar_menu.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/menu/activity_preview_tool_bar_menu.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_fragment_home_child3.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/fragment_home_child3.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-mdpi_add_action_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-mdpi/add_action_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_activity_edit_description.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/activity_edit_description.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxhdpi_add_action_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-xxhdpi/add_action_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-mdpi_add_action_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-mdpi/add_action_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/menu_main_activity_bottom_nav_menu.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/menu/main_activity_bottom_nav_menu.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_more_options_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-xxxhdpi/more_options_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxhdpi_check_button.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-xxhdpi/check_button.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-hdpi_setting_button.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-hdpi/setting_button.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/menu_activity_edit_profile_photo_crop_menu.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/menu/activity_edit_profile_photo_crop_menu.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxhdpi_default_image.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-xxhdpi/default_image.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xhdpi_back_arrow.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-xhdpi/back_arrow.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-ldpi_at.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-ldpi/at.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xhdpi_check_button.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-xhdpi/check_button.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-hdpi_chevron_right.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-hdpi/chevron_right.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_photo_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-xxxhdpi/photo_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxhdpi_back_arrow.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-xxhdpi/back_arrow.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-mdpi_default_image.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-mdpi/default_image.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-hdpi_album_ic_add_photo_white.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-hdpi/album_ic_add_photo_white.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-ldpi_photo_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-ldpi/photo_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/color_radio_button_tint.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/color/radio_button_tint.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_dialog_fragment_logout.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/dialog_fragment_logout.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_comment_bubble.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-xxxhdpi/comment_bubble.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-ldpi_more_options_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-ldpi/more_options_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_albums_content_snippet.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/albums_content_snippet.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-mdpi_home_fragment_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-mdpi/home_fragment_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_fragment_my.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/fragment_my.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-mdpi_setting_button.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-mdpi/setting_button.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_fragment_my_child2.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/fragment_my_child2.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-mdpi_location_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-mdpi/location_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xhdpi_proposal_fragment_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-xhdpi/proposal_fragment_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-ldpi_default_image.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-ldpi/default_image.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_add_button_image_24dp.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-xxxhdpi/add_button_image_24dp.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-ldpi_add_action_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-ldpi/add_action_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_album_abc_spinner_white.9.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-xxxhdpi/album_abc_spinner_white.9.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_activity_share.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/activity_share.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-ldpi_comment_bubble.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-ldpi/comment_bubble.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-ldpi_photo_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-ldpi/photo_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-mdpi_my_fragment_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-mdpi/my_fragment_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_video_icon.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-anydpi-v21/video_icon.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_edit_profile_photo_content_snippet.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/edit_profile_photo_content_snippet.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-hdpi_home_fragment_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-hdpi/home_fragment_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_recycler_view_card_item_layout.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/recycler_view_card_item_layout.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-mdpi_chevron_right.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-mdpi/chevron_right.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-hdpi_cancel_button.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-hdpi/cancel_button.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_activity_edit_name.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/activity_edit_name.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/anim_bottom_in.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/anim/bottom_in.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-hdpi_album_abc_spinner_white.9.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-hdpi/album_abc_spinner_white.9.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_add_action_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-xxxhdpi/add_action_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable_bottom_nav_background.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable/bottom_nav_background.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_album_ic_eye_white.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-xxxhdpi/album_ic_eye_white.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxhdpi_message_fragment_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-xxhdpi/message_fragment_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_comment_item.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/comment_item.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xhdpi_album_abc_spinner_white.9.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-xhdpi/album_abc_spinner_white.9.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_home_fragment_icon.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-anydpi-v21/home_fragment_icon.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_activity_preview_single_item.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/activity_preview_single_item.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxhdpi_album_abc_spinner_white.9.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-xxhdpi/album_abc_spinner_white.9.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-mdpi_cancel_button.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-mdpi/cancel_button.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_directory_seletor_single_item.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/directory_seletor_single_item.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable_bottom_nav_background.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable/bottom_nav_background.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-hdpi_check_button.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-hdpi/check_button.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_fragment_my.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/fragment_my.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxhdpi_album_ic_add_photo_white.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-xxhdpi/album_ic_add_photo_white.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-ldpi_add_button_image_24dp.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-ldpi/add_button_image_24dp.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxhdpi_photo_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-xxhdpi/photo_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-mdpi_my_fragment_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-mdpi/my_fragment_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_activity_edit_profile_photo.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/activity_edit_profile_photo.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_cancel_button.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-anydpi-v21/cancel_button.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_activity_post_view.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/activity_post_view.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-ldpi_more_options_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-ldpi/more_options_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-hdpi_add_button_image_24dp.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-hdpi/add_button_image_24dp.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxhdpi_add_button_image_24dp.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-xxhdpi/add_button_image_24dp.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout-v21_activity_image_albums_single_item.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout-v21/activity_image_albums_single_item.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_my_fragment_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-xxxhdpi/my_fragment_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-hdpi_add_action_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-hdpi/add_action_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-ldpi_video_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-ldpi/video_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_recycler_view_card_item_layout.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/recycler_view_card_item_layout.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_check_button.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-anydpi-v21/check_button.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_message_fragment_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-xxxhdpi/message_fragment_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxhdpi_cancel_button.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-xxhdpi/cancel_button.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable_button_shape3.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable/button_shape3.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xhdpi_more_options_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-xhdpi/more_options_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_chevron_right.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-anydpi-v21/chevron_right.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_dialog_dir_selector.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/dialog_dir_selector.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_activity_edit_profile_photo_single_item.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/activity_edit_profile_photo_single_item.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-hdpi_default_image.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-hdpi/default_image.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xhdpi_photo_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-xhdpi/photo_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_home_fragment_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-xxxhdpi/home_fragment_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/color_main_activity_bottom_nav_selector.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/color/main_activity_bottom_nav_selector.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-ldpi_question_button.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-ldpi/question_button.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_question_button.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-xxxhdpi/question_button.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxhdpi_proposal_fragment_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-xxhdpi/proposal_fragment_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-hdpi_photo_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-hdpi/photo_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable_button_shape2.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable/button_shape2.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-ldpi_back_arrow.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-ldpi/back_arrow.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_video_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-xxxhdpi/video_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/xml_file_paths.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/xml/file_paths.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_video_icon.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-anydpi-v21/video_icon.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-hdpi_at.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-hdpi/at.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_albums_add_photo_item.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/albums_add_photo_item.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_message_fragment_icon.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-anydpi-v21/message_fragment_icon.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_chevron_right.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-xxxhdpi/chevron_right.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xhdpi_question_button.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-xhdpi/question_button.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_setting_button.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-xxxhdpi/setting_button.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_activity_edit_description.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/activity_edit_description.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-ldpi_setting_button.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-ldpi/setting_button.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/anim_bottom_in.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/anim/bottom_in.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_reply_item.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/reply_item.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_dialog_dir_selector.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/dialog_dir_selector.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-ldpi_cancel_button.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-ldpi/cancel_button.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-ldpi_chevron_right.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-ldpi/chevron_right.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xhdpi_question_button.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-xhdpi/question_button.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_default_image.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-anydpi-v21/default_image.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_check_button.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-xxxhdpi/check_button.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_chevron_right.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-xxxhdpi/chevron_right.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xhdpi_message_fragment_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-xhdpi/message_fragment_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xhdpi_location_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-xhdpi/location_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_album_ic_eye_white.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-xxxhdpi/album_ic_eye_white.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_activity_preview_profile_photo.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/activity_preview_profile_photo.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_post_image_item.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/post_image_item.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_albums_add_photo_item.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/albums_add_photo_item.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable_button_shape3.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable/button_shape3.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxhdpi_cancel_button.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-xxhdpi/cancel_button.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_cancel_button.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-anydpi-v21/cancel_button.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-hdpi_password_toggle.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-hdpi/password_toggle.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-ldpi_home_fragment_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-ldpi/home_fragment_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable_edit_box_background.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable/edit_box_background.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_password_toggle.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-anydpi-v24/password_toggle.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_check_button.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-xxxhdpi/check_button.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xhdpi_cancel_button.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-xhdpi/cancel_button.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_reply_item.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/reply_item.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-mdpi_back_arrow.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-mdpi/back_arrow.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-mdpi_proposal_fragment_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-mdpi/proposal_fragment_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxhdpi_my_fragment_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-xxhdpi/my_fragment_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxhdpi_question_button.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-xxhdpi/question_button.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-hdpi_question_button.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-hdpi/question_button.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxhdpi_my_fragment_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-xxhdpi/my_fragment_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xhdpi_proposal_fragment_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-xhdpi/proposal_fragment_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxhdpi_comment_bubble.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-xxhdpi/comment_bubble.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_default_image.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-xxxhdpi/default_image.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/anim_bottom_out.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/anim/bottom_out.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-ldpi_question_button.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-ldpi/question_button.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xhdpi_album_abc_spinner_white.9.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-xhdpi/album_abc_spinner_white.9.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-mdpi_check_button.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-mdpi/check_button.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/menu_tool_bar_check.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/menu/tool_bar_check.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_comment_popup_window.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/comment_popup_window.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-hdpi_back_arrow.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-hdpi/back_arrow.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-mdpi_check_button.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-mdpi/check_button.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-ldpi_proposal_fragment_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-ldpi/proposal_fragment_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_add_button_image_24dp.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-anydpi-v21/add_button_image_24dp.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_fragment_my_child3.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/fragment_my_child3.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_default_image.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-xxxhdpi/default_image.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_fragment_proposal.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/fragment_proposal.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-mdpi_add_button_image_24dp.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-mdpi/add_button_image_24dp.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xhdpi_message_fragment_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-xhdpi/message_fragment_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-hdpi_at.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-hdpi/at.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable_button_shape2.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable/button_shape2.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxhdpi_comment_bubble.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-xxhdpi/comment_bubble.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-mdpi_password_toggle.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-mdpi/password_toggle.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-hdpi_message_fragment_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-hdpi/message_fragment_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-ldpi_home_fragment_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-ldpi/home_fragment_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_activity_edit_profile.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/activity_edit_profile.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/activity_login.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-mdpi_big_monkey.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-mdpi/big_monkey.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxhdpi_password_toggle.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-xxhdpi/password_toggle.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-hdpi_video_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-hdpi/video_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xhdpi_back_arrow.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-xhdpi/back_arrow.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout-v21_activity_setting.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout-v21/activity_setting.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable_edit_box_background.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable/edit_box_background.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/menu_activity_edit_profile_photo_preview_menu.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/menu/activity_edit_profile_photo_preview_menu.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable_button_shape.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable/button_shape.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_default_image.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-anydpi-v21/default_image.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-ldpi_setting_button.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-ldpi/setting_button.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_comment_more_items.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/comment_more_items.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xhdpi_album_ic_eye_white.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-xhdpi/album_ic_eye_white.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-hdpi_album_abc_spinner_white.9.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-hdpi/album_abc_spinner_white.9.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_activity_share.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/activity_share.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_at.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-xxxhdpi/at.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxhdpi_more_options_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-xxhdpi/more_options_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-mdpi_video_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-mdpi/video_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_activity_preview_profile_photo.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/activity_preview_profile_photo.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-hdpi_question_button.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-hdpi/question_button.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/activity_login.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_home_fragment_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-xxxhdpi/home_fragment_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-mdpi_proposal_fragment_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-mdpi/proposal_fragment_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_comment_bubble.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-anydpi-v21/comment_bubble.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-hdpi_add_button_image_24dp.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-hdpi/add_button_image_24dp.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xhdpi_more_options_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-xhdpi/more_options_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/anim_bottom_out.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/anim/bottom_out.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_activity_edit_name.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/activity_edit_name.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-mdpi_comment_bubble.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-mdpi/comment_bubble.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xhdpi_add_button_image_24dp.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-xhdpi/add_button_image_24dp.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-ldpi_at.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-ldpi/at.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout-v21_activity_image_albums_single_item.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout-v21/activity_image_albums_single_item.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-mdpi_add_button_image_24dp.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-mdpi/add_button_image_24dp.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-ldpi_chevron_right.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-ldpi/chevron_right.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-mdpi_default_image.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-mdpi/default_image.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-hdpi_password_toggle.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-hdpi/password_toggle.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxhdpi_back_arrow.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-xxhdpi/back_arrow.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/xml_file_paths.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/xml/file_paths.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_activity_setting.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/activity_setting.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxhdpi_album_ic_eye_white.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-xxhdpi/album_ic_eye_white.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-mdpi_cancel_button.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-mdpi/cancel_button.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxhdpi_setting_button.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-xxhdpi/setting_button.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxhdpi_add_action_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-xxhdpi/add_action_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_proposal_fragment_icon.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-anydpi-v21/proposal_fragment_icon.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-hdpi_home_fragment_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-hdpi/home_fragment_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxhdpi_at.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-xxhdpi/at.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_comment_bubble.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-xxxhdpi/comment_bubble.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_add_button_image_24dp.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-anydpi-v21/add_button_image_24dp.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxhdpi_setting_button.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-xxhdpi/setting_button.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxhdpi_album_ic_add_photo_white.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-xxhdpi/album_ic_add_photo_white.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-hdpi_album_ic_eye_white.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-hdpi/album_ic_eye_white.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_photo_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-xxxhdpi/photo_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-mdpi_setting_button.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-mdpi/setting_button.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_activity_register.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/activity_register.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-hdpi_photo_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-hdpi/photo_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_share_video_display_layout.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/share_video_display_layout.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_location_icon.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-anydpi-v21/location_icon.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_setting_button.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-anydpi-v21/setting_button.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/menu_activity_share_tool_bar_menu.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/menu/activity_share_tool_bar_menu.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-mdpi_photo_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-mdpi/photo_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable_button_shape4.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable/button_shape4.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-hdpi_add_action_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-hdpi/add_action_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_dialog_fragment_share_option.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/dialog_fragment_share_option.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_fragment_my_child3.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/fragment_my_child3.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-ldpi_comment_bubble.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-ldpi/comment_bubble.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-hdpi_proposal_fragment_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-hdpi/proposal_fragment_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-hdpi_cancel_button.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-hdpi/cancel_button.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_share_video_display_layout.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/share_video_display_layout.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_activity_edit_profile_photo_crop.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/activity_edit_profile_photo_crop.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_activity_image_albums_single_item.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/activity_image_albums_single_item.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-mdpi_photo_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-mdpi/photo_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_add_button_image_24dp.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-xxxhdpi/add_button_image_24dp.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-mdpi_question_button.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-mdpi/question_button.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/menu_activity_share_tool_bar_menu.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/menu/activity_share_tool_bar_menu.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxhdpi_home_fragment_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-xxhdpi/home_fragment_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_fragment_message.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/fragment_message.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_add_action_icon.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-anydpi-v21/add_action_icon.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/color_main_activity_bottom_nav_selector.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/color/main_activity_bottom_nav_selector.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-ldpi_location_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-ldpi/location_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xhdpi_photo_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-xhdpi/photo_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_post_image_item.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/post_image_item.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxhdpi_at.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-xxhdpi/at.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxhdpi_check_button.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-xxhdpi/check_button.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-mdpi_password_toggle.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-mdpi/password_toggle.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_comment_reply_item.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/comment_reply_item.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable_button_shape4.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable/button_shape4.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xxhdpi_photo_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-xxhdpi/photo_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_activity_edit_profile_photo_single_item.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/activity_edit_profile_photo_single_item.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-mdpi_home_fragment_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-mdpi/home_fragment_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_add_action_icon.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-anydpi-v21/add_action_icon.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-hdpi_chevron_right.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-hdpi/chevron_right.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-hdpi_video_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-hdpi/video_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-mdpi_location_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-mdpi/location_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_back_arrow.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-xxxhdpi/back_arrow.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_activity_post_view.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/activity_post_view.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-hdpi_setting_button.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-hdpi/setting_button.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_activity_image_albums.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/activity_image_albums.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_add_action_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-xxxhdpi/add_action_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_fragment_home.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/fragment_home.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-mdpi_big_monkey.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-mdpi/big_monkey.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_home_fragment_icon.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-anydpi-v21/home_fragment_icon.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-mdpi_video_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-mdpi/video_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_comment_more_items.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/comment_more_items.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_activity_register.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/activity_register.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-mdpi_more_options_icon.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-mdpi/more_options_icon.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_fragment_home_child3.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/fragment_home_child3.xml"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_activity_edit_profile_photo_preview.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/activity_edit_profile_photo_preview.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xhdpi_check_button.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-xhdpi/check_button.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-ldpi_default_image.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/generated/res/pngs/debug/drawable-ldpi/default_image.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xhdpi_video_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-xhdpi/video_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/layout/activity_main.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-hdpi_location_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/drawable-hdpi/location_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable_comment_list_selector_transparent.xml.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable/comment_list_selector_transparent.xml"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_message_fragment_icon.png.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/generated/res/pngs/debug/drawable-xxxhdpi/message_fragment_icon.png"
     },
     {
-        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/res/merged/debug/drawable-xhdpi_setting_button.png.flat",
-        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/src/main/res/drawable-xhdpi/setting_button.png"
+        "merged": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/res/merged/debug/layout_reply_expand_button.xml.flat",
+        "source": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/src/main/res/layout/reply_expand_button.xml"
     }
 ]

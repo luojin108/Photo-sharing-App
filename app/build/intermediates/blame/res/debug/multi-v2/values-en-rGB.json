@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/MyTips/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml",
+            "outputFile": "/Users/johannah/Desktop/AndroidStudioProjec/temp2/BigMonkey/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml",
             "map": [
                 {
                     "source": "/Users/johannah/.gradle/caches/transforms-2/files-2.1/6cdf211888e0a7ccbf81d39b63072413/core-1.1.0/res/values-en-rGB/values-en-rGB.xml",
